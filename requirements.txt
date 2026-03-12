@@ -1,0 +1,8 @@
+# Anthropic Python SDK for Claude API integration
+anthropic>=0.18.0
+
+# Testing framework for automated validation of the grading engine
+pytest>=7.4.0
+
+# Optional: For more advanced analytics in the future
+# pandas>=2.1.0
