@@ -1,6 +1,6 @@
 # 🚀 Anthropic GTM Technical Productivity Framework
 
-This repository serves as a functional prototype for a **Technical Sales Onboarding Factory**. It is designed to solve the "Technical Fluency Gap" for global Go-To-Market (GTM) teams scaling in high-growth AI environments.
+This repository serves as a functional prototype for a **Technical Sales Onboarding Factory**. It is designed to solve the "Technical Fluency Gap" for global Go-To-Market (GTM) teams scaling in high-growth AI environments
 
 ---
 
